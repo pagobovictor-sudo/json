@@ -1,0 +1,18 @@
+{
+    "5286749994": [
+        {
+            "last_update": 1755189538,
+            "name": "Cracked: full",
+            "status": "use at own risk",
+            "url": "https://raw.githubusercontent.com/pagobovictor-sudo/priv9full/refs/heads/main/full",
+            "confirm_load": "return true  --local core = game:GetService(\"ReplicatedFirst\"):FindFirstChild(\"Core\"); return (core and not not core:FindFirstChild(\"LobbyClientGame\")) or \"priv9.ru - security measure\\\\n\\\\nYou must load aftermath in lobby.\""
+        },
+        {
+            "last_update": 1752251003,
+            "name": "Cracked: lite",
+            "status": "undetected",
+            "url": "https://raw.githubusercontent.com/pagobovictor-sudo/privlite9/refs/heads/main/lite",
+            "confirm_load": "return true"
+        }
+    ]
+}
